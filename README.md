@@ -8,4 +8,4 @@ Gitbook 链接：[https://www.androidlovers.cn/](https://www.androidlovers.cn/)
 
 * [前言](README.md)
 * [企业](/root/企业.md)
-  - [阿里来自火星 腾讯来自金星](/company/阿里来自火星 腾讯来自金星.md)
+  - [阿里来自火星 腾讯来自金星](/company/阿里来自火星,腾讯来自金星.md)
