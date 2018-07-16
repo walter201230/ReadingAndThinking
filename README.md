@@ -39,10 +39,6 @@ Gitbook 链接：[https://www.androidlovers.cn/](https://www.androidlovers.cn/)
 **目录：**
 
 * [前言](README.md)
-* [热点](/root/热点.md)
-  - [下一任首富，雷军！](/hot/下一任首富，雷军！.md)
-  - [阿里来自火星 腾讯来自金星](/hot/阿里来自火星,腾讯来自金星.md)
-  - [为什么百度正在掉队？](/hot/为什么百度正在掉队？.md)
 * [运营](/root/营销.md)
   - [用户增长怎么做-我在Uber和摩拜的实战经验](/operation/用户增长怎么做-我在Uber和摩拜的实战经验.md)
   - [一天募集10亿，太空链涉嫌欺诈全调查](/operation/一天募集10亿，太空链涉嫌欺诈全调查.md)
@@ -50,4 +46,11 @@ Gitbook 链接：[https://www.androidlovers.cn/](https://www.androidlovers.cn/)
 * [经验](/root/经验.md)
   - [这个道理，很多人后悔没有早点知道](/experience/这个道理，很多人后悔没有早点知道.md)
   - [我所经历的失败](/experience/我所经历的失败.md)
+  - [下一任首富，雷军！](/experience/下一任首富，雷军！.md)
+  - [阿里来自火星 腾讯来自金星](/experience/阿里来自火星,腾讯来自金星.md)
+  - [为什么百度正在掉队？](/experience/为什么百度正在掉队？.md)
 * [产品](/root/产品.md)
+  - [生存偏差和增长](/product/生存偏差和增长.md)
+  - [成瘾性设计 vs 忠诚度设计](/product/成瘾性设计vs忠诚度设计.md)
+
+
